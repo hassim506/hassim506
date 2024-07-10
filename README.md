@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hassim Diallo</h1>
 <h3 align="center">I'm A passionate frontend developer and a computer science student living in Senegal. I strive to create innovative and elegant applications. Though I'm still a novice, I love exploring new technologies and staying updated with the latest trends. Always curious and motivated, I work on personal projects to hone my skills and contribute to impactful projects. Let's connect!</h3>
 
-- 🌱 I’m currently learning **Angular, and ionic**
+- 🌱 I’m currently learning **Angular, ionic, laravel, php,**
+-  My last project is [SamaRestaurant](https://github.com/hassim506/SamaRestaurant)
 
 - 👯 I’m looking to collaborate on [la-boutique-sn](https://github.com/hassim506/la-boutique-sn)
 
