@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **hassimiou061@gmail.com**
 
+  <img align="center" alt="Coding" width="800" src="https://camo.githubusercontent.com/65aab14f7e058fa3579cf7a151d18cb6c8fe7ad2101263a17f8474361867cd9d/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hassimdiallo123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassimdiallo123" height="30" width="40" /></a>
