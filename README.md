@@ -1,4 +1,11 @@
 <h1 align="center">Hey  👋, I'm Hassim Diallo</h1>
+<!-- SVG TYPING -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Hassim+Diallo+👨🏾;I+am+a+computer+science+engineering+student+🧑🏾‍🎓;I+am+passionate+about+programming+💻;I+love+sharing+knowledge+📚;I+am+an+enthusiastic+problem+solver+🧩;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Coding+is+my+passion+❤️;I+am+a+tech+enthusiast+🚀;I+am+always+curious+and+creative+🧠)](https://git.io/typing-svg)
+
+<!-- ILLUSTRATION'S IMAGE -->
+<img align="right" alt ="coding" width="600" src="https://technostupid.com/frontend/images/95116-coder.gif">
+
+<!-- DESCRIPTION -->
 <h3 align="center">A passionate Student in Computer Science  from SENEGAL</h3>
 <p align="center"><img align="center" alt="Coding" width="800" src="https://camo.githubusercontent.com/65aab14f7e058fa3579cf7a151d18cb6c8fe7ad2101263a17f8474361867cd9d/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f"></p> <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassim506" alt="hassim506" /></a> </p>
