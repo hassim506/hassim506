@@ -1,5 +1,5 @@
 <!-- SVG TYPING -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71B5F&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Hassim+Diallo+👨🏾;I+am+a+computer+science+engineering+student+🧑🏾‍🎓;I+am+passionate+about+programming+💻;I+love+sharing+knowledge+📚;I+am+an+enthusiastic+problem+solver+🧩;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Coding+is+my+passion+❤️;I+am+a+tech+enthusiast+🚀;;I+am+always+curious+and+creative+🧠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71B5F&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Hassim+Diallo+👨🏾;I+am+a+computer+science+student+from+Sénégal+🧑🏾‍🎓🇸🇳;I+am+passionate+about+programming+💻;I+love+sharing+knowledge+📚;I+am+an+enthusiastic+problem+solver+🧩;I+am+a+lifelong+learner+📖;I+aspire+to+contribute+to+the+open-source+community+🌐;Coding+is+my+passion+❤️;I+am+a+tech+enthusiast+🚀;I+am+always+curious+and+creative+🧠)](https://git.io/typing-svg)
 
 <!-- ILLUSTRATION'S IMAGE -->
 <img align="right" alt ="coding" width="600" src="https://technostupid.com/frontend/images/95116-coder.gif">
