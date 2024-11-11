@@ -3,11 +3,11 @@
 
 <p align="center">
  <!-- ILLUSTRATION'S IMAGE -->
- <!--<img align="right" alt ="coding" width="600" src="https://technostupid.com/frontend/images/95116-coder.gif">-->
+ <img align="right" alt ="coding" width="600" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
 <!-- DESCRIPTION -->
 </p>
-<p align="center"><img align="center" alt="Coding" width="800" src="https://camo.githubusercontent.com/65aab14f7e058fa3579cf7a151d18cb6c8fe7ad2101263a17f8474361867cd9d/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f"></p> <br>
+<p align="center"></p> <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassim506" alt="hassim506" /></a> </p>
 
 - 🌱 I’m currently learning **Angular, Ionic and Laravel**<br>
