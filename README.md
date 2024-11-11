@@ -3,7 +3,7 @@
 
 <p align="center">
  <!-- ILLUSTRATION'S IMAGE -->
- <img align="right" alt ="coding" width="600" src="https://technostupid.com/frontend/images/95116-coder.gif">
+ <img align="center" width="50%" alt ="coding" width="600" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
 <!-- DESCRIPTION -->
 </p>
